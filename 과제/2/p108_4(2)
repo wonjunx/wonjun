@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>과일 수입</title>
+</head>
+<body>
+<h3>과일 수입</h3>
+<hr>
+<table border="1">
+    <caption>과일 수입 표</caption>
+    <thead>
+        <tr><th>사과</th><th>바나나</th><th>망고</th></tr>
+    </thead>
+    <tfoot>
+            <tr><th>페루</th><th>필리핀</th><th>호주</th></tr>
+    </tfoot>
+    <tbody>
+        <tr><td><img src = "https://i.namu.wiki/i/7Qa1HFI80Lly0neWoiclvQA8z2qrQfVdPcwKK5PW4-XmlZSTJQbFJcw0sdxbrHccwzNCzRCuIl0JnqKmHuL4Sg.webp"
+                     width=100 height=100></td>
+            <td><img src = "https://i.namu.wiki/i/Mj0aArUbJiq5_c500MqmbYyDPWnSiDBCsxbesdkR0XTOtDvwrjj2ponJvctbYgQ7zPE_LvjsJHAl786rZu0tkw.webp"
+                     width=100 height=100></td>
+            <td><img src = "https://i.namu.wiki/i/fCyL5440FDNZaQ_1K5qHrEmbxXw5aTjDdBRMPH-Ec4OKq9j5_oiUPK8D4Tf-FPFLSZI_UIuGfp6k7LGMktfbag.webp"
+                     width=100 height=100></td></tr>
+    </tbody>
+</table>
+</body>
+</html>
