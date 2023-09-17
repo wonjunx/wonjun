@@ -7,7 +7,8 @@
 <body>
 <h3>자기 소개</h3>
 <hr>
-안녕하세요. 경성대학교 소프트웨어학과에 재학중인 정원준입니다.
-<video src = "video.mp4"></video>
+안녕하세요. 경성대학교 소프트웨어학과에 재학중인 정원준입니다.<br>
+화이팅<br>
+<video src = "230917 갱플도망가기.mp4" controls width=500 height=300></video>
 </body>
 </html>
